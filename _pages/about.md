@@ -18,6 +18,8 @@ redirect_from:
 
 # Recent News
 
+* Aug 8, 2019. Paper <i>A Data-Driven Characterization of Modern Android Spyware.</i> [paper]() submitted to ACM Transactions on Management Information Systems.
+
 * July 8, 2019. One paper <i>Generating Fake Documents using Probabilistic Logic Graphs.</i> [paper](https://qian-han.github.io/files/Fake_PLGs.pdf) submitted to IEEE Transactions on Dependable and Secure Computing (TDSC).
 
 * July 5, 2019. One paper <i>Android Rooting Malware Detection via (Somewhat) Robust Irreversible Feature Transformations.</i> [paper](https://qian-han.github.io/files/FARM.pdf) submitted to IEEE Transactions on Information Forensics and Security (TIFS).
