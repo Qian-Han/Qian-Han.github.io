@@ -18,6 +18,10 @@ redirect_from:
 
 # Recent News
 
+* Jan 4, 2020. Selected as one of the finalists of the 2020 NortonLifeLock Research Group Graduate Fellowship (formerly known as the Symantec Research Labs Fellowship).
+
+* Jan 4, 2020. Paper <i>Disclose or Exploit? A Game-Theoretic Approach to Strategic Decision Making in Cyber-Warfare.</i> [paper](https://qian-han.github.io/files/DiscX.pdf) accepted to IEEE Systems Journal (ISJ).
+
 * Aug 8, 2019. Paper <i>A Data-Driven Characterization of Modern Android Spyware.</i> [paper]() submitted to ACM Transactions on Management Information Systems.
 
 * July 8, 2019. One paper <i>Generating Fake Documents using Probabilistic Logic Graphs.</i> [paper](https://qian-han.github.io/files/Fake_PLGs.pdf) submitted to IEEE Transactions on Dependable and Secure Computing (TDSC).
@@ -26,9 +30,9 @@ redirect_from:
 
 * June 22, 2019. Received Dartmouth College Graduate Student Council Student Professional Development Support Fund.
 
-* June 5, 2019. Selected as one of 2019 winners of the Neukom Prize for Outstanding Graduate Research in Computational Science.
+* June 5, 2019. Selected as one of the winners of the 2019 Neukom Prize for Outstanding Graduate Research in Computational Science.
 
-* May 29, 2019. Selected as one of 2019 recipients of the Dartmouth College Graduate Alumni Research Award.
+* May 29, 2019. Selected as one of the recipients of the 2019 Dartmouth College Graduate Alumni Research Award.
 
 * May 14, 2019. Passed my Research Presentation Examination (Qualification Examination) at Department of Computer Science, Dartmouth College. [slides](https://qian-han.github.io/files/RPE.pdf)
 

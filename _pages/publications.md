@@ -13,12 +13,12 @@ author_profile: true
 <b>Qian Han</b>, V.S. Subrahmanian and Yanhai Xiong.
 <i>submitted to IEEE Transactions on Information Forensics and Security.</i>
 
-<b>[Disclose or Exploit? A Game Theoretic Approach to Strategic Decision Making in Cyber Warfare](https://qian-han.github.io/files/EOD.pdf)</b><br>
-Haipeng Chen\*, <b>Qian Han\*</b>, Sushil Jajodia, Roy Lindelauf, V.S. Subrahmanian, Yanhai Xiong (authors listed in alphabetic order).
-<i>submitted to IEEE System Journals.</i>
+<b>[Disclose or Exploit? A Game Theoretic Approach to Strategic Decision Making in Cyber Warfare](https://qian-han.github.io/files/DiscX.pdf)</b><br>
+Haipeng Chen, <b>Qian Han</b>, Sushil Jajodia, Roy Lindelauf, V.S. Subrahmanian, Yanhai Xiong (authors listed in alphabetic order, as a major contributor).
+<i>IEEE System Journals.</i> <b>ISJ 2020</b>.
 
 <b>[DBank: Predictive Behavioral Analysis of Recent Android Banking Trojans](https://ieeexplore.ieee.org/document/8684321)</b><br>
-Chongyang Bai\*, <b>Qian Han\*</b>, Ghita Mezzour, Fabio Pierazzi, V.S. Subrahmanian (authors listed in alphabetic order).
+Chongyang Bai\*, <b>Qian Han\*</b>, Ghita Mezzour, Fabio Pierazzi, V.S. Subrahmanian (authors listed in alphabetic order, as a major contributor).
 <i>IEEE Transactions on Dependable and Secure Computing.</i> <b>TDSC 2019</b>.
 
 <b>[Frictio: Passive Kinesthetic Force Feedback for Smart Ring Output](https://qian-han.github.io/files/Frictio.pdf)</b><br>
