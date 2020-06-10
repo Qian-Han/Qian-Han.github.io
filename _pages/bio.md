@@ -16,6 +16,10 @@ Education
 
 Professional experience
 ======
+* Summer 2020: Software Engineer Intern
+  * Facebook
+  * Duties included: Apply ML/DL models to the network demand forecast and network anomaly detection
+
 * Summer 2019: Research Intern
   * Israel National Cyber Bureau & Deutsche Telecom Innovation Laboratories
   * Duties included: Designed Android-centric attack on well-known Android malware classifiers using static features and enhanced robustness of anti-virus engines

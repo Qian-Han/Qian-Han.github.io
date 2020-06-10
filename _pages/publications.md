@@ -5,13 +5,17 @@ author_profile: true
 ---
 
 <b>[Generating Fake Documents using Probabilistic Logic Graphs.](https://qian-han.github.io/files/Fake_PLGs.pdf)</b><br>
-<b>Qian Han</b>, Cristian Molinaro, Antonio Picariello, Giancarlo Sperli, V.S. Subrahmanian, Yanhai Xiong
+<b>Qian Han</b>, Cristian Molinaro, Antonio Picariello, Giancarlo Sperli, V.S. Subrahmanian, Yanhai Xiong.
  (authors listed in alphabetic order).
 <i>submitted to IEEE Transactions on Dependable and Secure Computing.</i>
 
-<b>[Android Rooting Malware Detection via (Somewhat) Robust Irreversible Feature Transformations](https://qian-han.github.io/files/FARM.pdf)</b><br>
-<b>Qian Han</b>, V.S. Subrahmanian and Yanhai Xiong.
-<i>submitted to IEEE Transactions on Information Forensics and Security.</i>
+<b>[A Data-driven Characterization of Modern Android Spyware](https://dl.acm.org/doi/pdf/10.1145/3382158)</b><br>
+Fabio Pierazzi, Ghita Mezzour, <b>Qian Han</b>, Michele Colajanni, V.S. Subrahmanian.
+<i>ACM Transactions on Management Information Systems.</i> <b>TIMS 2020</b>.
+
+<b>[Android Malware Detection via (Somewhat) Robust Irreversible Feature Transformations](https://ieeexplore.ieee.org/abstract/document/9013026)</b><br>
+<b>Qian Han</b>, V.S. Subrahmanian, Yanhai Xiong.
+<i>IEEE Transactions on Information Forensics and Security.</i> <b>TIFS 2020</b>.
 
 <b>[Disclose or Exploit? A Game Theoretic Approach to Strategic Decision Making in Cyber Warfare](https://qian-han.github.io/files/DiscX.pdf)</b><br>
 Haipeng Chen, <b>Qian Han</b>, Sushil Jajodia, Roy Lindelauf, V.S. Subrahmanian, Yanhai Xiong (authors listed in alphabetic order, as a major contributor).

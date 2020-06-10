@@ -18,6 +18,14 @@ redirect_from:
 
 # Recent News
 
+* Jun, 2020 - I'll be doing an internship at Facebook this summer, focusing on the modeling of network demand forecast and network anomaly detection.
+
+* May 15, 2020. Passed my Ph.D. thesis proposal at Department of Computer Science, Dartmouth College.
+
+* Mar 27, 2020. Paper <i>A Data-driven Characterization of Modern Android Spyware.</i> [paper](https://dl.acm.org/doi/pdf/10.1145/3382158) accepted to ACM Transactions on Management Information Systems (TMIS).
+
+* Feb 21, 2020. Paper <i>Android Malware Detection via (Somewhat) Robust Irreversible Feature Transformations.</i> [paper](https://ieeexplore.ieee.org/abstract/document/9013026) accepted to IEEE Transactions on Information Forensics and Security (TIFS).
+
 * Jan 4, 2020. Selected as one of the finalists of the 2020 NortonLifeLock Research Group Graduate Fellowship (formerly known as the Symantec Research Labs Fellowship).
 
 * Jan 4, 2020. Paper <i>Disclose or Exploit? A Game-Theoretic Approach to Strategic Decision Making in Cyber-Warfare.</i> [paper](https://qian-han.github.io/files/DiscX.pdf) accepted to IEEE Systems Journal (ISJ).
