@@ -17,8 +17,7 @@ Education
 Professional experience
 ======
 * Summer 2020: Software Engineer Intern
-  * Facebook
-  * Duties included: Apply ML/DL models to the network demand forecast and network anomaly detection
+  * Facebook (Network Risk & Planning Team)
 
 * Summer 2019: Research Intern
   * Israel National Cyber Bureau & Deutsche Telecom Innovation Laboratories

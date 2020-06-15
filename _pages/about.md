@@ -18,7 +18,7 @@ redirect_from:
 
 # Recent News
 
-* Jun, 2020 - I'll be doing an internship at Facebook this summer, focusing on the modeling of network demand forecast and network anomaly detection.
+* Jun, 2020 - I'll be doing an internship at Facebook (Network Risk & Planning Team) this summer.
 
 * May 15, 2020. Passed my Ph.D. thesis proposal at Department of Computer Science, Dartmouth College.
 
