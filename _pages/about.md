@@ -18,6 +18,8 @@ redirect_from:
 
 # Recent News
 
+* Sept, 2020 - I'll join Facebook as a research scientist in June, 2021.
+
 * Jun, 2020 - I'll be doing an internship at Facebook (Network Risk & Planning Team) this summer.
 
 * May 15, 2020. Passed my Ph.D. thesis proposal at Department of Computer Science, Dartmouth College.
