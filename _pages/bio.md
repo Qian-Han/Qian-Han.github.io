@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Department of Computer Science, Dartmouth College, 2021 (expected)
+* Ph.D in Department of Computer Science, Dartmouth College, 2021
 * B.E. in Department of Electronic Engineering, Tsinghua University, 2016
 
 Professional experience
