@@ -16,6 +16,9 @@ Education
 
 Professional experience
 ======
+* Starting from Summer 2021: Research Scientist
+  * Facebook
+
 * Summer 2020: Software Engineer Intern
   * Facebook (Network Risk & Planning Team)
 

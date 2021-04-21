@@ -7,7 +7,7 @@ author_profile: true
 <b>[Generating Fake Documents using Probabilistic Logic Graphs.](https://qian-han.github.io/files/Fake_PLGs.pdf)</b><br>
 <b>Qian Han</b>, Cristian Molinaro, Antonio Picariello, Giancarlo Sperli, V.S. Subrahmanian, Yanhai Xiong.
  (authors listed in alphabetic order).
-<i>submitted to IEEE Transactions on Dependable and Secure Computing.</i>
+<i>IEEE Transactions on Dependable and Secure Computing.</i> <b>TDSC 2021</b>.
 
 <b>[A Data-driven Characterization of Modern Android Spyware](https://dl.acm.org/doi/pdf/10.1145/3382158)</b><br>
 Fabio Pierazzi, Ghita Mezzour, <b>Qian Han</b>, Michele Colajanni, V.S. Subrahmanian.

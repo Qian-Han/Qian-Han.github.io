@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-* I am a Ph.D. student in the [Department of Computer Science](https://web.cs.dartmouth.edu/) at Dartmouth College, where I work at Dartmouth College Security and Artificial Intelligence Laboratory, advised by [Prof. V.S. Subrahmanian](http://home.cs.dartmouth.edu/~vs//). [[My Curriculum Vitae]](http://qian-han.github.io/files/Qian_Han_CV.pdf)
+* I recently complete my Ph.D. in the [Department of Computer Science](https://web.cs.dartmouth.edu/) at Dartmouth College, where I work at Dartmouth College Security and Artificial Intelligence Laboratory, advised by [Prof. V.S. Subrahmanian](http://home.cs.dartmouth.edu/~vs//). [[My Curriculum Vitae]](http://qian-han.github.io/files/Qian_Han_CV.pdf)
 * I received my Bachelor’s Degree from the Department of Electronic Engineering in [Tsinghua University](http://www.tsinghua.edu.cn/publish/thu2018en/index.html). My undergraduate research advisor is [Prof. Linglong Dai](http://oa.ee.tsinghua.edu.cn/dailinglong/). 
 * In 2016, my dissertation entitled “Hardware Design and Implementation of a Discrete Multi-channel Optically Controlled Oscillator System” won Tsinghua University’s Distinguished Dissertation Award.
 
@@ -17,6 +17,10 @@ redirect_from:
 
 
 # Recent News
+
+* Apr, 2021 - Passed my Ph.D. thesis defense at Department of Computer Science, Dartmouth College!
+
+* Jan, 2021 - Paper <i>Generating Fake Documents using Probabilistic Logic Graphs.</i> [paper](https://ieeexplore.ieee.org/abstract/document/9354044) accepted to IEEE Transactions on Dependable and Secure Computing (TDSC).
 
 * Sept, 2020 - I'll join Facebook as a research scientist in June, 2021.
 
